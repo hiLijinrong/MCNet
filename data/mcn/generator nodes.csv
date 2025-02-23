@@ -1,0 +1,15 @@
+generator node,zone,service population,basic load capacity,state
+G4,Z2,158.98,8,normal
+G5,Z2,233.42,9,normal
+G12,Z2,113.36,8,normal
+G1,Z2,173.66,7,normal
+G2,Z2,179.75,10,normal
+G3,Z2,230.18,13,normal
+G6,Z2,135.27,6,normal
+G8,Z3,92.82,6,normal
+G13,Z3,228.61,12,normal
+G9,Z3,279.57,12,normal
+G10,Z3,115.15,6,normal
+G11,Z3,70.04,8,normal
+G14,Z1,164.42,8,normal
+G7,Z1,301.4,14,normal
